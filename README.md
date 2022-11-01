@@ -1,6 +1,6 @@
 # Hi, I’m Sava Mihai 👋 
 
-## I'm a front-end web development, ultimately aiming for full-stack dev!  
+## I'm a front-end web developer, ultimately aiming for full-stack dev!  
 
 - 👀 I’m interested in website development and networking.
 - 🌱 I’m currently learning React Js framework.

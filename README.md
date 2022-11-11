@@ -5,7 +5,7 @@
 - 👀 I’m interested in website development and networking.
 - 🌱 I’m currently learning React Js framework.
 - 💞️ I’m looking to meet people and to work together.
-- 🥅 2022 Goals: Land a job in web development.
+- 🥅 2022 Goals: Become a full-time developer.
 
 ### Connect with me:
 

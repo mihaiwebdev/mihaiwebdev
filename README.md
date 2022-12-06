@@ -3,7 +3,7 @@
 ## I'm a front-end web developer, ultimately aiming for full-stack dev!  
 
 - 👀 I’m interested in website development and networking.
-- 🌱 I’m currently learning React Js framework.
+- 🌱 I’m currently learning Redux.
 - 💞️ I’m looking to meet people and to work together.
 - 🥅 2022 Goals: Become a full-time developer.
 

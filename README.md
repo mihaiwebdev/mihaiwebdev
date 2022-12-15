@@ -1,7 +1,5 @@
 # Hi, I’m Sava Mihai 👋 
 
-## Web developer, with a continuous improvment mindset!  
-
 - 👀 I’m interested in website development and networking.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to meet people and to work together.

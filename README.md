@@ -1,9 +1,9 @@
 # Hi, I’m Sava Mihai 👋 
 
-## I'm a front-end web developer, with a keen interest in becoming full-stack!  
+## Web developer, with a continuous improvment mindset!  
 
 - 👀 I’m interested in website development and networking.
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to meet people and to work together.
 - 🥅 2022 Goals: Become a full-time developer.
 

@@ -1,9 +1,9 @@
 # Hi, I’m Sava Mihai 👋 
 
-- 👀 I’m interested in website development and networking.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to meet people and to work together.
-- 🥅 2022 Goals: Become a full-time developer.
+- 👀 I’m interested in website development.
+- 🌱 I’m currently learning back end with python and Django framework.
+- 💞️ I’m looking to share and collect new informations.
+- 🥅 2023 Goals: Become a full-time full stack web developer.
 
 ### Connect with me:
 

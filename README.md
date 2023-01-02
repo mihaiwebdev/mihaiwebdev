@@ -3,7 +3,7 @@
 - 👀 I’m interested in website development.
 - 🌱 I’m currently learning back end with python and Django framework.
 - 💞️ I’m looking to share and collect new informations.
-- 🥅 2023 Goals: Networking.
+- 🥅 2023 Goals: More Networking.
 
 ### Connect with me:
 

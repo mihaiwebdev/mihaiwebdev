@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://savamihai.com#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://www.websavanthub.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://savamihai.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mihai-sava-517534242#gh-light-mode-only)

@@ -7,17 +7,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.websavanthub.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.websavanthub.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.websavanthub.com)
+[![website](./img/globe-dark.svg)](https://www.websavanthub.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mihai-sava-517534242#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mihai-sava-517534242#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mihai-sava-517534242)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mihai-sava-517534242)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/savamihai/?r=nametag#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/savamihai/?r=nametag#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/savamihai/?r=nametag)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/savamihai/?r=nametag)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/MihaiSava98#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/MihaiSava98#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/MihaiSava98)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MihaiSava98)
 
 
 

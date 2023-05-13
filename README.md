@@ -1,9 +1,9 @@
 # Hi, I’m Sava Mihai 👋 
 
-- 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning Clean Code and Best Practicies and diving more deep into JavaScript.
-- 💞️ I’m looking to share and collect new informations.
-- 🥅 2023 Goals: Networking. Making a living from programming.
+- 👀 I’m interested and excited about programming.
+- 🌱 I’m currently learning Node.js and in-depth JavaScript.
+- 💞️ I’m looking to share and learn new informations.
+- 🥅 2023 Goals Learning MERN / MEAN stack.
 
 ### Connect with me:
 

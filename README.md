@@ -1,6 +1,6 @@
 # Hi, I’m Sava Mihai 👋 
 
-- 👀 I’m interested and excited about programming.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Node.js with Express and MongoDB.
 - 💞️ I’m looking to share and learn new informations.
 - 🥅 2023 Goals Learning MERN / MEAN stack.

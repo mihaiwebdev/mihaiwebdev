@@ -1,9 +1,9 @@
 # Hi, I’m Sava Mihai 👋 
 
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Angular.
+- 👀 I’m interested in web programming.
+- 🌱 I’m continuously learning web programming.
 - 💞️ I’m looking to share and learn new informations.
-- 🥅 2023 Goals: Bring value to people.
+- 🥅 2024 Goals: Bring value to other people.
 
 ### Connect with me:
 

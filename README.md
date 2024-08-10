@@ -1,9 +1,9 @@
 # Hi, I’m Sava Mihai 👋 
 
-- 👀 I’m interested in web programming.
-- 🌱 I’m continuously learning web programming.
-- 💞️ I’m looking to share and learn new informations.
-- 🥅 2024 Goals: Bring value to other people.
+- I'm coding in TypeScript.
+- I launched moviepicker.app with +2000 users.
+- I’m learning Next.js at the moment.
+- 2024 Goals: Bring value to other people.
 
 ### Connect with me:
 

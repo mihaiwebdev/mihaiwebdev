@@ -1,8 +1,8 @@
 # Hi, I’m Sava Mihai 👋 
 
 - I'm coding in TypeScript.
-- I launched moviepicker.app with +2000 users.
-- I’m learning Next.js at the moment.
+- I launched moviepicker.app which attracted +2000 users.
+- I’m always learning.
 - 2024 Goals: Bring value to other people.
 
 ### Connect with me:

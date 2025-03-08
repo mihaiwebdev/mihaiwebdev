@@ -1,4 +1,4 @@
-# Hi, I’m Sava Mihai 👋 
+# Hi, I’m Mihai Sava👋 
 
 - I'm a Full-Stack Developer who works a 9-to-5 and builds stuff from 5-to-9
 - I launched <a href="https://video-repurpose.com" target="_blank">Video-Repurpose</a> and <a href="https://moviepicker.app" target="_blank">MoviePicker</a>.

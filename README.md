@@ -1,7 +1,7 @@
 # Hi, I’m Mihai Sava👋 
 
 - I'm a Full-Stack Developer who works a 9-to-5 and builds stuff from 5-to-9
-- I launched <a href="https://video-repurpose.com" target="_blank">Video-Repurpose</a> and <a href="https://moviepicker.app" target="_blank">MoviePicker</a>.
+- I built <a href="https://video-repurpose.com" target="_blank">Video-Repurpose</a> and <a href="https://moviepicker.app" target="_blank">MoviePicker</a> to make life easier.
 - I’m always learning and committed to my path to greatness
 - 2025 Goals: Make 1000$ from a small project
 
